@@ -1,0 +1,5 @@
+What is devops?
+Ans:- DevOps is a combination of two words:
+      Dev = Development
+      Ops = Operations
+  DevOps is the collaboration between development and IT operations teams, using automation and continuous delivery to ship high-quality software faster.
